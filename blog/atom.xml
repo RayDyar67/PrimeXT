@@ -9,7 +9,7 @@
     <icon>https://snmetamorph.github.io/PrimeXT/img/favicon.ico?v=2</icon>
     <entry>
         <title type="html"><![CDATA[Alpha release 25.10.2021]]></title>
-        <id>alpha-oct-2021</id>
+        <id>https://snmetamorph.github.io/PrimeXT/blog/alpha-oct-2021</id>
         <link href="https://snmetamorph.github.io/PrimeXT/blog/alpha-oct-2021"/>
         <updated>2021-10-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is first ever release of PrimeXT, so it somehow works, but it a lot of things to fix and implement, therefore feel free to report about bugs and glitches to GitHub issues.]]></summary>
