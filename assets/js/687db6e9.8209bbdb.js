@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprimext_docs=self.webpackChunkprimext_docs||[]).push([[7062],{5385:e=>{e.exports=JSON.parse('{"label":"release","permalink":"/PrimeXT/blog/tags/release","allTagsPath":"/PrimeXT/blog/tags","count":1}')}}]);
