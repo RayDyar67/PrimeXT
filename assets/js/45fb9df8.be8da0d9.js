@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprimext_documentation=self.webpackChunkprimext_documentation||[]).push([[3923],{3300:e=>{e.exports=JSON.parse('{"authors":[{"name":"Vladimir","title":"Lead Developer of PrimeXT","url":"https://github.com/SNMetamorph","imageURL":"https://avatars.githubusercontent.com/u/25657591?v=4","key":"snmetamorph","page":null,"count":0}]}')}}]);

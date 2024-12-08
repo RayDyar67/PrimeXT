@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprimext_documentation=self.webpackChunkprimext_documentation||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/PrimeXT/blog","blogTitle":"Blog","authorsListPath":"/PrimeXT/blog/authors"}')}}]);
